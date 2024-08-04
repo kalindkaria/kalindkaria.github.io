@@ -218,5 +218,5 @@ Currently, I am a Ph.D. student in the Department of Computer Science at the Ind
 
 <center>
 
-#### <i class="fa fa-download" aria-hidden="true" style="color:#035AA6"></i> {{< staticref "cv/alzahawi.pdf" "newtab" >}}Download my CV{{< /staticref >}}
+#### <i class="fa fa-download" aria-hidden="true" style="color:#035AA6"></i> {{< "uploads/resume.pdf" "newtab" >}}Download my CV{{< >}}
 </center>
