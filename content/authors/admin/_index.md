@@ -211,9 +211,13 @@ awards:
 
 ## About Me
 
-Currently, I am a first year Ph.D. student in the [Department of Computer Science](https://www.cse.iitb.ac.in/) at the [Indian Institute of Technology Bombay](https://www.iitb.ac.in/) under the supervision of [Prof. Biswabandan Panda](https://www.cse.iitb.ac.in/~biswa/) and [Prof. Supratik Chakraborty](https://www.cse.iitb.ac.in/~supratik/). Follow our research group, [CASPER](https://casper-iitb.github.io/).
+<div style="text-align: justify">
+  Currently, I am a first year Ph.D. student in the <a href="https://www.cse.iitb.ac.in/" target="_blank">Computer Science Department</a> at the <a href="https://www.iitb.ac.in/" target="_blank">Indian Institute of Technology Bombay</a> under the supervision of <a href="https://www.cse.iitb.ac.in/~biswa/" target="_blank">Prof. Biswabandan Panda</a> and <a href="https://www.cse.iitb.ac.in/~supratik/" target="_blank">Prof. Supratik Chakraborty</a>. Follow our research group, <a href="https://casper-iitb.github.io/" target="_blank">CASPER</a>.
 
-My research interests focus on the microarchitectural optimizations for various workloads. I am currently working on improving the performance of SAT (satisfiability) solvers on modern architectures. I like to work on projects that involve a mix of hardware and software.
+  <br><br>
+
+  My research interests focus on the microarchitectural optimizations for various workloads. I am currently working on improving the performance of SAT (satisfiability) solvers on modern architectures. I like to work on projects that involve a mix of hardware and software.
+</div>
 
 <center>
 
