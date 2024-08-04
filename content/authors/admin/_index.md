@@ -31,17 +31,13 @@ profiles:
     icon_pack: fas
     url: 'mailto:kalindkaria@cse.iitb.ac.in'
     label: E-mail Me
-  - icon: github
-    icon_pack: fab
+  - icon: brands/github
     url: https://github.com/kalindkaria
-  - icon: google-scholar
-    icon_pack: ai
+  - icon: brands/google-scholar
     url: https://scholar.google.co.in/citations?user=7NBn7-YAAAAJ&hl=en
-  - icon: linkedin
-    icon_pack: fab
+  - icon: brands/linkedin
     url: https://www.linkedin.com/in/kalind-karia
-  - icon: x
-    icon_pack: fab
+  - icon: brands/x
     url: https://twitter.com/KalindKaria
   # - icon: brands/instagram
   #   url: https://www.instagram.com/
@@ -154,22 +150,6 @@ skills:
         description: ''
         percent: 100
         icon: code-bracket
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Painting
-        description: ''
-        percent: 80
-        # icon: paintbrush
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
   - name: Soft Skills
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -181,12 +161,29 @@ skills:
       - name: Teamwork
         description: ''
         percent: 100
-        icon: users
+        # icon: users
       - name: Leadership
         description: ''
         percent: 60
-        icon: lightbulb
+        # icon: lightbulb
         # icon: user-tie
+  - name: Hobbies
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Hiking
+        description: ''
+        percent: 60
+        icon: person-simple-walk
+      - name: Painting
+        description: ''
+        percent: 80
+        icon: color-palette
+        # icon: paintbrush
+      - name: Cats
+        description: ''
+        percent: 100
+        icon: cat
 
 languages:
   - name: English
@@ -214,11 +211,12 @@ awards:
 
 ## About Me
 
-Currently, I am a Ph.D. student in the Department of Computer Science at the Indian Institute of Technology Bombay under the supervision of [Prof. Biswabandan Panda](https://www.cse.iitb.ac.in/~biswa/) and [Prof. Supratik Chakraborty](https://www.cse.iitb.ac.in/~supratik/).
+Currently, I am a first year Ph.D. student in the [Department of Computer Science](https://www.cse.iitb.ac.in/) at the [Indian Institute of Technology Bombay](https://www.iitb.ac.in/) under the supervision of [Prof. Biswabandan Panda](https://www.cse.iitb.ac.in/~biswa/) and [Prof. Supratik Chakraborty](https://www.cse.iitb.ac.in/~supratik/). Follow our research group, [CASPER](https://casper-iitb.github.io/).
 
 My research interests focus on the microarchitectural optimizations for various workloads. I am currently working on improving the performance of SAT (satisfiability) solvers on modern architectures. I like to work on projects that involve a mix of hardware and software.
 
 <center>
 
-#### <a _target="blank" href="uploads/resume.pdf">📄 Download CV</a>
+<a href="uploads/resume.pdf" target="_blank" class="inline-flex items-center px-4 py-2 text-sm font-medium text-gray-900 bg-white border border-gray-200 rounded-lg hover:bg-gray-100 hover:text-primary-700 focus:z-10 focus:ring-4 focus:outline-none focus:ring-gray-200 focus:text-primary-700 dark:bg-gray-800 dark:text-gray-400 dark:border-gray-600 dark:hover:text-white dark:hover:bg-gray-700 dark:focus:ring-gray-700"><svg class="w-3.5 h-3.5 me-2.5" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentcolor" viewBox="0 0 20 20"><path d="M14.707 7.793a1 1 0 00-1.414.0L11 10.086V1.5a1 1 0 00-2 0v8.586L6.707 7.793A1 1 0 105.293 9.207l4 4a1 1 0 001.416.0l4-4a1 1 0 00-.002-1.414z"></path><path d="M18 12h-2.55l-2.975 2.975a3.5 3.5.0 01-4.95.0L4.55 12H2a2 2 0 00-2 2v4a2 2 0 002 2h16a2 2 0 002-2v-4a2 2 0 00-2-2zm-3 5a1 1 0 110-2 1 1 0 010 2z"></path></svg> Download CV</a>
+
 </center>
