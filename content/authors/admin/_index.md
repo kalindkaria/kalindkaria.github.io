@@ -214,9 +214,11 @@ awards:
 
 ## About Me
 
-Currently, I am a Ph.D. student in the Department of Computer Science at the Indian Institute of Technology Bombay under the supervision of [Prof. Biswabandan Panda](https://www.cse.iitb.ac.in/~biswa/) and [Prof. Supratik Chakraborty](https://www.cse.iitb.ac.in/~supratik/). My research interests focus on the microarchitectural optimizations for various workloads. I am currently working on improving the performance of SAT (satisfiability) solvers on modern architectures.
+Currently, I am a Ph.D. student in the Department of Computer Science at the Indian Institute of Technology Bombay under the supervision of [Prof. Biswabandan Panda](https://www.cse.iitb.ac.in/~biswa/) and [Prof. Supratik Chakraborty](https://www.cse.iitb.ac.in/~supratik/).
+
+My research interests focus on the microarchitectural optimizations for various workloads. I am currently working on improving the performance of SAT (satisfiability) solvers on modern architectures. I like to work on projects that involve a mix of hardware and software.
 
 <center>
 
-#### <i class="fa fa-download" aria-hidden="true" style="color:#035AA6"></i> {{< "uploads/resume.pdf" "newtab" >}}Download my CV{{< >}}
+#### <a _target="blank" href="uploads/resume.pdf">📄 Download CV</a>
 </center>

@@ -8,8 +8,8 @@ appearance:
   mode: system
   color: emerald
   font: roboto
-  font_size: 16
-  line_height: 1.6
+  # font_size: 16
+  # line_height: 1.6
   theme_default: dark
   theme_toggle: true
   theme_toggle_location: right
@@ -42,7 +42,7 @@ header:
     show_search: true
     show_theme_chooser: true
     logo:
-      text: "Your Name"
+      text: "Kalind Karia"
 
 # Site footer
 footer:
