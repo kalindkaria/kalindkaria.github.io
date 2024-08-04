@@ -27,27 +27,26 @@ organizations:
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
+  - icon: envelope
+    icon_pack: fas
     url: 'mailto:kalindkaria@cse.iitb.ac.in'
     label: E-mail Me
-  - icon: brands/x
+  - icon: github
+    icon_pack: fab
+    url: https://github.com/kalindkaria
+  - icon: google-scholar
+    icon_pack: ai
+    url: https://scholar.google.co.in/citations?user=7NBn7-YAAAAJ&hl=en
+  - icon: linkedin
+    icon_pack: fab
+    url: https://www.linkedin.com/in/kalind-karia
+  - icon: x
+    icon_pack: fab
     url: https://twitter.com/KalindKaria
   # - icon: brands/instagram
   #   url: https://www.instagram.com/
-  - icon: brands/github
-    url: https://github.com/kalindkaria
-  - icon: brands/linkedin
-    url: https://www.linkedin.com/in/kalind-karia
-  - icon: academicons/google-scholar
-    url: https://scholar.google.co.in/citations?user=7NBn7-YAAAAJ&hl=en
   # - icon: academicons/orcid
   #   url: https://orcid.org/
-
-interests:
-  - Computer Architecture
-  - Processor Design
-  - Embedded System Design
-  - Robotics
 
 education:
   - area: PhD Computer Science
@@ -128,26 +127,32 @@ work:
       - Design and development of PCBs for various projects
       - Conducted workshops on embedded systems and robotics
 
+interests:
+  - Computer Architecture
+  - Processor Design
+  - Embedded System Design
+  - Robotics
+
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: C
         description: ''
-        percent: 100
+        percent: 40
         icon: code-bracket
       - name: Bash
         description: ''
         percent: 100
-        icon: terminal
+        icon: code-bracket
       - name: VHDL
         description: ''
         percent: 60
         icon: code-bracket
-      - name: C
+      - name: Python
         description: ''
-        percent: 40
+        percent: 100
         icon: code-bracket
   - name: Hobbies
     color: '#eeac02'
@@ -157,14 +162,14 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
+      - name: Painting
+        description: ''
+        percent: 80
+        # icon: paintbrush
       - name: Cats
         description: ''
         percent: 100
         icon: cat
-      - name: Painting
-        description: ''
-        percent: 80
-        icon: paintbrush
   - name: Soft Skills
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -172,7 +177,7 @@ skills:
       - name: Communication
         description: ''
         percent: 80
-        icon: chat
+        # icon: chat
       - name: Teamwork
         description: ''
         percent: 100
@@ -180,7 +185,8 @@ skills:
       - name: Leadership
         description: ''
         percent: 60
-        icon: user-tie
+        icon: lightbulb
+        # icon: user-tie
 
 languages:
   - name: English
@@ -208,4 +214,9 @@ awards:
 
 ## About Me
 
-Currently, I am a Ph.D. student in the Department of Computer Science at the Indian Institute of Technology Bombay under the supervision of (Prof. Biswabandan Panda)[https://www.cse.iitb.ac.in/~biswa/] and (Prof. Supratik Chakraborty)[https://www.cse.iitb.ac.in/~supratik/]. My research interests focus on the microarchitectural optimizations for various workloads. I am currently working on improving the performance of SAT (satisfiability) solvers on modern architectures.
+Currently, I am a Ph.D. student in the Department of Computer Science at the Indian Institute of Technology Bombay under the supervision of [Prof. Biswabandan Panda](https://www.cse.iitb.ac.in/~biswa/) and [Prof. Supratik Chakraborty](https://www.cse.iitb.ac.in/~supratik/). My research interests focus on the microarchitectural optimizations for various workloads. I am currently working on improving the performance of SAT (satisfiability) solvers on modern architectures.
+
+<center>
+
+#### <i class="fa fa-download" aria-hidden="true" style="color:#035AA6"></i> {{< staticref "cv/alzahawi.pdf" "newtab" >}}Download my CV{{< /staticref >}}
+</center>
