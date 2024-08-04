@@ -137,19 +137,19 @@ skills:
       - name: C
         description: ''
         percent: 40
-        icon: code-bracket
+        # icon: code-bracket
       - name: Bash
         description: ''
         percent: 100
-        icon: code-bracket
+        # icon: code-bracket
       - name: VHDL
         description: ''
         percent: 60
-        icon: code-bracket
+        # icon: code-bracket
       - name: Python
         description: ''
         percent: 100
-        icon: code-bracket
+        # icon: code-bracket
   - name: Soft Skills
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -174,16 +174,16 @@ skills:
       - name: Hiking
         description: ''
         percent: 60
-        icon: person-simple-walk
+        # icon: person-simple-walk
       - name: Painting
         description: ''
         percent: 80
-        icon: color-palette
+        # icon: color-palette
         # icon: paintbrush
       - name: Cats
         description: ''
         percent: 100
-        icon: cat
+        # icon: cat
 
 languages:
   - name: English
