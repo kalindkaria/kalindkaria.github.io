@@ -7,6 +7,13 @@
 appearance:
   mode: system
   color: emerald
+  font: roboto
+  font_size: 16
+  line_height: 1.6
+  theme_default: dark
+  theme_toggle: true
+  theme_toggle_location: right
+  theme_toggle_style: button
 
 # SEO
 marketing:
